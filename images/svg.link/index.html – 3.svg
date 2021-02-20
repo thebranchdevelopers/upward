@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1263" height="3661" viewBox="0 0 1263 3661">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="183" width="581" height="49.999" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect y="13" width="581" height="216.999" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" width="153.807" height="63.805" rx="31.903"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_3_copy" data-name="Rectangle 3 copy" width="1312" height="617" transform="translate(0 0)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 386 354">
+      <image width="386" height="354" xlink:href="index.html%20-%203-image4.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 218 64">
+      <image width="218" height="64" xlink:href="index.html%20-%203-image6.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 218 64">
+      <image width="218" height="64" xlink:href="index.html%20-%203-image7.png"/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <rect width="114.712" height="41.753" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 541 424">
+      <image width="541" height="424" xlink:href="index.html%20-%203-image8.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 876 536">
+      <image width="876" height="536" xlink:href="index.html%20-%203-image10.png"/>
+    </pattern>
+    <filter id="Phone" x="757.161" y="2438.982" width="439.026" height="481.709" filterUnits="userSpaceOnUse">
+      <feOffset dx="43.661" dy="82.114" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="29.5" result="blur"/>
+      <feFlood flood-opacity="0.42"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-index.html_3">
+      <rect width="1263" height="3661"/>
+    </clipPath>
+  </defs>
+  <g id="index.html_3" data-name="index.html – 3" clip-path="url(#clip-index.html_3)">
+    <rect width="1263" height="3661" fill="#fff"/>
+    <g id="Background" transform="translate(-175 3216)">
+      <rect id="Rectangle_3_copy_3" data-name="Rectangle 3 copy 3" width="1667" height="360" fill="#0d0c0c"/>
+      <rect id="Rectangle_3_copy_3-2" data-name="Rectangle 3 copy 3" width="1667" height="360" fill="#0d0c0c"/>
+    </g>
+    <g id="Contact" transform="translate(784 3345.807)">
+      <text id="CONTACT_" data-name="CONTACT " transform="translate(2 30)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CONTACT </tspan></text>
+    </g>
+    <path id="Rectangle_9_copy" data-name="Rectangle 9 copy" d="M212,4h0Z" transform="translate(144 3388)" fill="#0076a3"/>
+    <text id="DOWNLOAD" transform="translate(474 3373.49)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">DOWNLOAD</tspan></text>
+    <text id="Download_the_app_for_free_and_enjoy_other_features." data-name="Download the app for free and enjoy other features." transform="translate(472 3387)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">Download the app for free and enjoy other features.</tspan></text>
+    <text id="Android_Users_IOS_Users" data-name="Android Users
+
+IOS Users" transform="translate(474 3433)" fill="#6dcff6" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Android Users</tspan><tspan x="0" y="24"></tspan><tspan x="0" y="48">IOS Users</tspan></text>
+    <text id="ABOUT_ARMOTALE" data-name="ABOUT ARMOTALE" transform="translate(150 3373.49)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ABOUT ARMOTALE</tspan></text>
+    <text id="ArmotaleArmotaleArmotaleArmotaleArmotale_ArmotaleArmotaleArmotaleArmotaleArmotale_ArmotaleArmotaleArmotaleArmotaleArmotale_ArmotaleArmotaleArmotaleArmotaleArmotale_ArmotaleArmotaleArmotaleArmotaleArmotale_" data-name="ArmotaleArmotaleArmotaleArmotaleArmotale, ArmotaleArmotaleArmotaleArmotaleArmotale, ArmotaleArmotaleArmotaleArmotaleArmotale, ArmotaleArmotaleArmotaleArmotaleArmotale, ArmotaleArmotaleArmotaleArmotaleArmotale, " transform="translate(150 3387.565)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">ArmotaleArmotaleArmotaleArmotaleArmotale, </tspan><tspan x="0" y="35.6">ArmotaleArmotaleArmotaleArmotaleArmotale, </tspan><tspan x="0" y="57.2">ArmotaleArmotaleArmotaleArmotaleArmotale, </tspan><tspan x="0" y="78.8">ArmotaleArmotaleArmotaleArmotaleArmotale, </tspan><tspan x="0" y="100.4">ArmotaleArmotaleArmotaleArmotaleArmotale, </tspan></text>
+    <g id="_08_Call_to_Action" data-name="08 Call to Action" transform="translate(-154 -1147)">
+      <rect id="Rectangle_3_copy_2" data-name="Rectangle 3 copy 2" width="1648" height="214" transform="translate(-21 4222)" fill="#0076a3"/>
+      <text id="SPEAK_WITH_AN_AGENT_TOLL_FREE" data-name="SPEAK WITH AN AGENT TOLL FREE" transform="translate(811.061 4302.779)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="-199.932" y="0">SPEAK WITH AN AGENT TOLL FREE</tspan></text>
+      <text id="_123_4567_8900" data-name="+123 4567 8900" transform="translate(801.96 4385.614)" fill="#fff" font-size="58" font-family="Roboto-Regular, Roboto"><tspan x="-209.924" y="0">+123 4567 8900</tspan></text>
+    </g>
+    <g id="_07_Client_Reviews" data-name="07 Client Reviews" transform="translate(-101 -889)">
+      <g id="Background-2" data-name="Background" transform="translate(-20 3611)">
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="1650" height="357" fill="#040707"/>
+      </g>
+      <g id="Chigozie" transform="translate(827 3724.167)">
+        <g id="Scroll_Group_6" data-name="Scroll Group 6" transform="translate(0 -0.167)" clip-path="url(#clip-path)" style="isolation: isolate">
+          <path id="Rectangle_6_copy" data-name="Rectangle 6 copy" d="M106.036,232H50A50,50,0,0,1,0,182V50A50,50,0,0,1,50,0H531a50,50,0,0,1,50,50V182a50,50,0,0,1-50,50H134v27Z" fill="#040707"/>
+        </g>
+        <text id="BUSINESS_MAN" data-name="BUSINESS MAN" transform="translate(157.061 179.779)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">BUSINESS MAN</tspan></text>
+        <text id="CHIGOZIE_ONYEBUCHI" data-name="CHIGOZIE ONYEBUCHI" transform="translate(152.061 156.779)" fill="#ffc61a" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CHIGOZIE ONYEBUCHI</tspan></text>
+        <text id="My_Containers_came_in_on_time._Very_good_and_exceptional.._They_are_fast_and_really_great_with_their_customers._Safety_first" data-name="My Containers came in on time. 
+Very good and exceptional.. They are fast and really great 
+with their customers. Safety first" transform="translate(56.424 35.51)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">My Containers came in on time. </tspan><tspan x="0" y="35.6">Very good and exceptional.. They are fast and really great </tspan><tspan x="0" y="57.2">with their customers. Safety first</tspan></text>
+      </g>
+      <g id="Scroll_Group_5" data-name="Scroll Group 5" transform="translate(199 3739)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <g id="Lawal" transform="translate(0.001 0.167)">
+          <path id="Rectangle_6" data-name="Rectangle 6" d="M447,232H50A50,50,0,0,1,0,182V50A50,50,0,0,1,50,0H531a50,50,0,0,1,50,50V182a50,50,0,0,1-50,50H474.964L447,259Z" transform="translate(-0.001 -0.167)" fill="#040707"/>
+          <text id="BUSINESS_MAN-2" data-name="BUSINESS MAN" transform="translate(144.06 159.779)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">BUSINESS MAN</tspan></text>
+          <text id="BOLAJI_LAWAL" data-name="BOLAJI LAWAL" transform="translate(139.06 136.779)" fill="#ffc61a" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">BOLAJI LAWAL</tspan></text>
+          <text id="Very_good_and_exceptional.._They_are_fast_and_really_great_with_their_customers._Safety_first_Wonderful_" data-name="Very good and exceptional.. They are fast and really great 
+with their customers. Safety first 
+Wonderful!" transform="translate(52.423 23.51)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="14">Very good and exceptional.. They are fast and really great </tspan><tspan x="0" y="35.6">with their customers. Safety first </tspan><tspan x="0" y="57.2">Wonderful!</tspan></text>
+        </g>
+      </g>
+      <text id="REVIEWS" transform="translate(730 3730.342)" fill="#fff" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="-65.38" y="0">REVIEWS</tspan></text>
+      <text id="CLIENT" transform="translate(731 3673.779)" fill="aqua" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="-43.873" y="0">CLIENT</tspan></text>
+    </g>
+    <g id="Rounded_Rectangle_2-2" data-name="Rounded Rectangle 2" transform="translate(-159.5 -820.18)">
+      <rect id="Rounded_Rectangle_2-3" data-name="Rounded Rectangle 2" width="153.807" height="63.805" rx="31.903" transform="translate(331 3386)"/>
+      <g id="Clip" transform="translate(331 3386)" clip-path="url(#clip-path-3)">
+        <image id="Google_Play" data-name="Google Play" width="138" height="47.894" transform="translate(8.424 9.296)" xlink:href="index.html%20-%203-image.png"/>
+      </g>
+    </g>
+    <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" d="M23.582,0H128.8c13.024,0,23.582,15.38,23.582,34.353a45.51,45.51,0,0,1-4.8,20.774C143.4,63.278,136.532,68.705,128.8,68.705H23.582C10.558,68.705,0,53.325,0,34.353S10.558,0,23.582,0Z" transform="translate(358.924 2563.319)"/>
+    <image id="App_store" data-name="App store" width="129.424" height="43.955" transform="translate(371.924 2571.842)" xlink:href="index.html%20-%203-image2.png"/>
+    <text id="Downlaod_the_Armotale_app_free_Get_Exciting_New_Offers" data-name="Downlaod the Armotale app free!
+Get Exciting New Offers" transform="translate(171.561 2430.558)" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Downlaod the Armotale app free!</tspan><tspan x="0" y="30.58">Get Exciting New Offers</tspan></text>
+    <text id="The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_app_The_" data-name="The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, The " transform="translate(170.924 2475.33)" fill="#101010" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="10">The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, </tspan><tspan x="0" y="31.6">The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, </tspan><tspan x="0" y="53.2">The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, </tspan><tspan x="0" y="74.8">The app, The app, The app, The app, The app, The app, The app, The app, The app, The app, </tspan></text>
+    <text id="THE_BEST_DELIVERY_APP" data-name="THE BEST DELIVERY APP" transform="translate(649 2363.779)" font-size="31" font-family="Roboto-Regular, Roboto"><tspan x="-175.578" y="0">THE BEST DELIVERY APP</tspan></text>
+    <text id="DOWNLOAD-2" data-name="DOWNLOAD" transform="translate(648.5 2321.779)" fill="#0076a3" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="-65.221" y="0">DOWNLOAD</tspan></text>
+    <g id="_05_Quality_Services" data-name="05 Quality Services" transform="translate(107 -548.158)">
+      <g id="Background-3" data-name="Background" transform="translate(-107 2207.158)">
+        <g id="Rectangle_3_copy-2" data-name="Rectangle 3 copy">
+          <rect id="Rectangle_3_copy-3" data-name="Rectangle 3 copy" width="1312" height="617" transform="translate(0 0)"/>
+          <g id="Clip-2" data-name="Clip" clip-path="url(#clip-path-4)">
+            <image id="Biker" width="1165" height="1456" transform="translate(-200 -779)" xlink:href="index.html%20-%203-image3.png"/>
+          </g>
+        </g>
+      </g>
+      <g id="learn_More_Button" data-name="learn More Button" transform="translate(472.168 2693.749)">
+        <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" width="137" height="54.38" rx="7.17" fill="#13c8d1"/>
+        <text id="LEARN_MORE" data-name="LEARN MORE" transform="translate(70.231 32.793)" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-47.98" y="0">LEARN MORE</tspan></text>
+      </g>
+      <g id="_04" data-name="04" transform="translate(659.335 2540.55)">
+        <text id="GPS_TRACKING" data-name="GPS TRACKING" transform="translate(0.637 20)" fill="#13c8d1" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">GPS TRACKING</tspan></text>
+        <text id="Know_exactly_where_your_parcels_are_and_send_tracking_to_your_customers." data-name="Know exactly where your parcels are and send 
+tracking to your customers." transform="translate(0 32.548)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">Know exactly where your parcels are and send </tspan><tspan x="0" y="35.6">tracking to your customers.</tspan></text>
+      </g>
+      <text id="FAST_BOOKING" data-name="FAST BOOKING" transform="translate(644.992 2405.656)" fill="#13c8d1" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">FAST BOOKING</tspan></text>
+      <text id="iOS_and_Android_apps_available_to_deliver_even_when_you_re_AFK." data-name="iOS and Android apps available to deliver
+even when you&apos;re AFK." transform="translate(661.104 2417.484)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">iOS and Android apps available to deliver</tspan><tspan x="0" y="35.6">even when you&apos;re AFK.</tspan></text>
+      <g id="Group_10" data-name="Group 10" transform="translate(558.912 2388.521)">
+        <ellipse id="Ellipse_2_copy" data-name="Ellipse 2 copy" cx="31.5" cy="30.139" rx="31.5" ry="30.139" fill="#13c8d1"/>
+        <text id="_" data-name="" transform="translate(30.023 39.95)" fill="#161616" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-9.683" y="0"></tspan></text>
+      </g>
+      <g id="Group_15" data-name="Group 15" transform="translate(555.805 2550.617)">
+        <ellipse id="Ellipse_2_copy-2" data-name="Ellipse 2 copy" cx="31.5" cy="30.139" rx="31.5" ry="30.139" fill="#13c8d1"/>
+        <text id="_2" data-name="" transform="translate(30.023 39.95)" fill="#161616" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-9.683" y="0"></tspan></text>
+      </g>
+      <g id="Group_16" data-name="Group 16" transform="translate(41.479 2382.881)">
+        <g id="_03" data-name="03" transform="translate(83 159.158)">
+          <text id="RELIABLE_DRIVERS" data-name="RELIABLE DRIVERS" transform="translate(0 20)" fill="#13c8d1" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">RELIABLE DRIVERS</tspan></text>
+          <text id="With_over_1000_pilots_more_pilots_means_faster_deliveries_and_optimum_reliability" data-name="With over 1000 pilots, more pilots means
+ faster deliveries and optimum reliability" transform="translate(3.363 33.548)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">With over 1000 pilots, more pilots means</tspan><tspan x="0" y="35.6" xml:space="preserve"> faster deliveries and optimum reliability</tspan></text>
+        </g>
+        <g id="Group_11" data-name="Group 11">
+          <g id="Group_13" data-name="Group 13" transform="translate(2)">
+            <ellipse id="Ellipse_2_copy-3" data-name="Ellipse 2 copy" cx="31.5" cy="30.139" rx="31.5" ry="30.139" fill="#13c8d1"/>
+            <text id="_3" data-name="" transform="translate(30.023 39.95)" fill="#161616" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-9.683" y="0"></tspan></text>
+          </g>
+          <g id="Group_14" data-name="Group 14" transform="translate(0 168)">
+            <ellipse id="Ellipse_2_copy-4" data-name="Ellipse 2 copy" cx="31.5" cy="30.139" rx="31.5" ry="30.139" fill="#13c8d1"/>
+            <text id="_4" data-name="" transform="translate(30.023 39.95)" fill="#161616" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-9.683" y="0"></tspan></text>
+          </g>
+        </g>
+        <g id="_01" data-name="01" transform="translate(83.966 7.155)">
+          <text id="MULTIPLE_PICKUPS" data-name="MULTIPLE PICKUPS" transform="translate(0 20)" fill="#13c8d1" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">MULTIPLE PICKUPS</tspan></text>
+          <text id="Multiple_parcels_multiple_locations_That_just_got_easier." data-name="Multiple parcels, multiple locations? That just
+got easier." transform="translate(3.363 28.548)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">Multiple parcels, multiple locations? That just</tspan><tspan x="0" y="35.6">got easier.</tspan></text>
+        </g>
+      </g>
+      <text id="SERVICES" transform="translate(539.956 2329.674)" fill="#fff" font-size="35" font-family="Roboto-Regular, Roboto"><tspan x="-78.553" y="0">SERVICES</tspan></text>
+      <text id="VEHICLES" transform="translate(526.662 1704.779)" fill="#13c8d1" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="-74.025" y="0">VEHICLES</tspan></text>
+      <text id="QUALITY" transform="translate(539.99 2287.621)" fill="#13c8d1" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="-55.897" y="0">QUALITY</tspan></text>
+      <text id="OUR" transform="translate(526.744 1662.779)" fill="#13c8d1" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="-28.547" y="0">OUR</tspan></text>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="312" height="311" rx="10" transform="matrix(1, 0.017, -0.017, 1, 146.738, 1274.301)" fill="#d2ddf4"/>
+    <text id="Our_Bikes_are_Kwik_to_navigate_traffic_and_ensure_your_items_are_delivered_within_2_hours._All_our_bikes_are_equipped_with_insulated_box_that_can_accommodate_most_of_your_business_needs._Frozen_foods_can_be_kept_in_our_boxes_up_to_4_hours._Just_keep_in_min" data-name="Our Bikes are Kwik to navigate traffic and ensure your items are delivered within 2 hours.
+All our bikes are equipped with insulated box that can accommodate most of your business needs.
+Frozen foods can be kept in our boxes up to 4 hours.
+Just keep in min" transform="translate(164.706 1354.607)" fill="#101010" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="9.277" y="15">Our Bikes are Kwik to navigate traffic </tspan><tspan x="12.716" y="36.6">and ensure your items are delivered </tspan><tspan x="77.562" y="58.2">within 2 hours.</tspan><tspan x="28.066" y="79.8">All our bikes are equipped with </tspan><tspan x="7.708" y="101.4">insulated box that can accommodate </tspan><tspan x="31.675" y="123">most of your business needs.</tspan><tspan x="5.131" y="144.6">Frozen foods can be kept in our boxes </tspan><tspan x="80.494" y="166.2">up to 4 hours.</tspan></text>
+    <text id="BIKES" transform="translate(300 1342)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-18.424" y="0">BIKES</tspan></text>
+    <g id="Bike" transform="translate(476 1215.163)" style="isolation: isolate">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="312" height="311" transform="translate(0 61.837)" fill="#1a6598"/>
+      <text id="Do_you_have_large_items_or_quantities_that_Bike_capacity_cannot_accommodate_Our_vans_and_other_utility_vehicles_are_available_at_your_fingertips_for_quick_pick-up_and_delivery._With_maximum_weight_of_1_500_kg_we_assure_you_we_will_not_leave_you_stranded" data-name="Do you have large items or quantities that Bike capacity cannot accommodate?
+Our vans and other utility vehicles are available at your fingertips for quick pick-up and delivery.
+With maximum weight of 1,500 kg, we assure you we will not leave you stranded" transform="translate(20.706 121.444)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="8.187" y="15">Do you have large items or quantities </tspan><tspan x="44.756" y="36.6">that Bike capacity cannot </tspan><tspan x="74.701" y="58.2">accommodate?</tspan><tspan x="7.203" y="79.8">Our vans and other utility vehicles are </tspan><tspan x="12.439" y="101.4">available at your fingertips for quick </tspan><tspan x="59.833" y="123">pick-up and delivery.</tspan><tspan x="5.384" y="144.6">With maximum weight of 1,500 kg, we </tspan><tspan x="23.732" y="166.2">assure you we will not leave you </tspan><tspan x="95.745" y="187.8">stranded</tspan></text>
+      <text id="VAN" transform="translate(156 117.837)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-14.667" y="0">VAN</tspan></text>
+    </g>
+    <g id="Bike-2" data-name="Bike" transform="translate(800 1254.163)">
+      <rect id="Rectangle_4-3" data-name="Rectangle 4" width="312" height="311" transform="translate(0 22.837)" fill="#d2ddf4"/>
+      <text id="For_your_large_items_our_Trucks_are_available_to_ensure_inclusion_of_large_items._With_trucks_capacity_from_3_Tons_to_5_Tons_Kwik_has_provided_options_to_meet_your_delivery_specifications._This_service_comes_with_an_optional_offering_of_loaders_to_take" data-name="For your large items, our Trucks are available to ensure inclusion of large items.
+With trucks capacity from 3 Tons to 5 Tons, Kwik has provided options to meet your delivery specifications.
+This service comes with an optional offering of &quot;loaders&quot; to take" transform="translate(20.706 95.093)" fill="#101010" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="13.799" y="15">For your large items, our Trucks are </tspan><tspan x="9.834" y="36.6">available to ensure inclusion of large </tspan><tspan x="103.866" y="58.2">items.</tspan><tspan x="5.634" y="79.8">With trucks capacity from 3 Tons to 5 </tspan><tspan x="15.413" y="101.4">Tons, Kwik has provided options to </tspan><tspan x="19.497" y="123">meet your delivery specifications.</tspan><tspan x="11.786" y="144.6">This service comes with an optional </tspan><tspan x="14.767" y="166.2">offering of &quot;loaders&quot; to take care of </tspan></text>
+      <text id="TRUCK" transform="translate(156 89.837)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-22.562" y="0">TRUCK</tspan></text>
+    </g>
+    <text id="VEHICLES-2" data-name="VEHICLES" transform="translate(628 1299.8)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="-76.14" y="0">VEHICLES</tspan></text>
+    <text id="OUR-2" data-name="OUR" transform="translate(628 1264.3)" fill="#0076a3" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="-35.684" y="0">OUR</tspan></text>
+    <g id="_03_Best_and_Trusted" data-name="03 Best and Trusted" transform="translate(-37 -293.668)">
+      <rect id="BG_copy" data-name="BG copy" width="1400" height="634" transform="translate(7 662.668)" fill="#0076a3"/>
+      <path id="Rounded_Rectangle_1_copy_4" data-name="Rounded Rectangle 1 copy 4" d="M5.616,0H124.407a5.606,5.606,0,0,1,5.616,5.6V32.158a5.606,5.606,0,0,1-5.616,5.6H5.616A5.606,5.606,0,0,1,0,32.158V5.6A5.606,5.606,0,0,1,5.616,0Z" transform="translate(190.178 1087.783)"/>
+      <text id="GET_STARTED" data-name="GET STARTED" transform="translate(261 1112.668)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-47.246" y="0">GET STARTED</tspan></text>
+      <text id="Whether_you_are_a_business_owner_or_a_courier_our_user-friendly_interface_will_help_you_to_manage_your_parcels_in_a_minute._" data-name="Whether you are a business owner or a courier, 
+our user-friendly interface will help you to manage your
+parcels in a minute. " transform="translate(191.602 1001.668)" fill="#fff" font-size="16.5" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Whether you are a business owner or a courier, </tspan><tspan x="0" y="42">our user-friendly interface will help you to manage your</tspan><tspan x="0" y="67">parcels in a minute. </tspan></text>
+      <text id="COURIER_SERVICES_IN_THE_WORLD" data-name="COURIER SERVICES
+IN THE WORLD" transform="translate(191 926.668)" fill="#fff" font-size="40" font-family="Verdana"><tspan x="0" y="0">COURIER SERVICES</tspan><tspan x="0" y="48">IN THE WORLD</tspan></text>
+      <text id="THE_BEST_AND_MOST_TRUSTED" data-name="THE BEST AND MOST TRUSTED" transform="translate(395.602 874.668)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="-199.315" y="0">THE BEST AND MOST TRUSTED</tspan></text>
+      <rect id="Phone_copy_2" data-name="Phone copy 2" width="333" height="305" transform="translate(841 835.668)" fill="url(#pattern)"/>
+      <path id="Path_199" data-name="Path 199" d="M0,0Z" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+    <image id="Layer_27" data-name="Layer 27" width="163.492" height="47.998" transform="translate(945.508 939.404)" xlink:href="index.html%20-%203-image6.png" style="mix-blend-mode: screen;isolation: isolate"/>
+    <rect id="Layer_27-2" data-name="Layer 27" width="163.492" height="47.998" transform="translate(945.508 940.404)" stroke="#fff" stroke-width="1" fill="url(#pattern-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+    <image id="Layer_28" data-name="Layer 28" width="163.492" height="47.998" transform="translate(756.008 939.404)" xlink:href="index.html%20-%203-image7.png" style="mix-blend-mode: screen;isolation: isolate"/>
+    <rect id="Layer_28-2" data-name="Layer 28" width="163.492" height="47.998" transform="translate(756.008 940.404)" stroke="#fff" stroke-width="1" fill="url(#pattern-3)" style="mix-blend-mode: screen;isolation: isolate"/>
+    <text id="Download_our_app_on_Android_and_iOS_for_FREE" data-name="Download our app on Android and iOS for FREE" transform="translate(756 933.684)" fill="#fff" font-size="16.7" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Download our app on Android and iOS for FREE</tspan></text>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(242.645 1535.625)" clip-path="url(#clip-path-5)">
+      <g transform="translate(-242.645 -1733.625)">
+        <path id="Rounded_Rectangle_1_copy_4-2" data-name="Rounded Rectangle 1 copy 4" d="M4.955,0h104.8c2.736,0,4.955,2.77,4.955,6.188V35.565c0,3.417-2.218,6.188-4.955,6.188H4.955C2.218,41.753,0,38.983,0,35.565V6.188C0,2.77,2.218,0,4.955,0Z" transform="translate(242.645 1733.625)"/>
+        <text id="SIGN_UP" data-name="SIGN UP" transform="translate(300 1761.002)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-30.02" y="0">SIGN UP</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(565.476 1535.625)" clip-path="url(#clip-path-5)">
+      <g transform="translate(-242.645 -1733.625)">
+        <path id="Rounded_Rectangle_1_copy_4-3" data-name="Rounded Rectangle 1 copy 4" d="M4.955,0h104.8c2.736,0,4.955,2.77,4.955,6.188V35.565c0,3.417-2.218,6.188-4.955,6.188H4.955C2.218,41.753,0,38.983,0,35.565V6.188C0,2.77,2.218,0,4.955,0Z" transform="translate(242.645 1733.625)"/>
+        <text id="SIGN_UP-2" data-name="SIGN UP" transform="translate(300 1761.002)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-30.02" y="0">SIGN UP</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(880.288 1538.107)" clip-path="url(#clip-path-5)">
+      <g transform="translate(-242.645 -1733.625)">
+        <path id="Rounded_Rectangle_1_copy_4-4" data-name="Rounded Rectangle 1 copy 4" d="M4.955,0h104.8c2.736,0,4.955,2.77,4.955,6.188V35.565c0,3.417-2.218,6.188-4.955,6.188H4.955C2.218,41.753,0,38.983,0,35.565V6.188C0,2.77,2.218,0,4.955,0Z" transform="translate(242.645 1733.625)"/>
+        <text id="SIGN_UP-3" data-name="SIGN UP" transform="translate(300 1761.002)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-30.02" y="0">SIGN UP</tspan></text>
+      </g>
+    </g>
+    <path id="Hue_Saturation_1_copy" data-name="Hue/Saturation 1 copy" d="M0,0H166V130H0Z" transform="translate(226 1199)" fill="url(#pattern-4)"/>
+    <g id="Group_27" data-name="Group 27" transform="translate(847.153 1148.958)">
+      <g id="Group_26" data-name="Group 26" transform="translate(0 -0.431)">
+        <image id="Truck-2" data-name="Truck" width="237.589" height="188.973" xlink:href="index.html%20-%203-image9.png"/>
+      </g>
+    </g>
+    <g id="Van-2" data-name="Van" transform="translate(341 1176.178)">
+      <g id="Ford_Cargo_Van_Mockup" data-name="Ford Cargo Van Mockup" transform="translate(161 -18.547)">
+        <rect id="Van_" data-name="Van " width="258" height="158" transform="translate(0 0.369)" fill="url(#pattern-5)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Phone)">
+      <image id="Phone-2" data-name="Phone" width="256.825" height="300.273" transform="translate(807.24 2445.37) rotate(1)" xlink:href="index.html%20-%203-image11.png"/>
+    </g>
+    <path id="Path_38" data-name="Path 38" d="M84.744,14V7.622h2.178l.311-2.489H84.744V3.578c0-.7.233-1.244,1.244-1.244h1.322V.078C87,.078,86.222,0,85.367,0a3,3,0,0,0-3.189,3.267V5.133H80V7.622h2.178V14Z" transform="translate(138.688 3531.645)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_39" data-name="Path 39" d="M42.433,13.356A8.094,8.094,0,0,0,50.6,5.189V4.8A6.322,6.322,0,0,0,52,3.322a6.457,6.457,0,0,1-1.633.467,3.026,3.026,0,0,0,1.244-1.556,7.134,7.134,0,0,1-1.789.7A2.778,2.778,0,0,0,47.722,2a2.922,2.922,0,0,0-2.878,2.878,1.516,1.516,0,0,0,.078.622,8.041,8.041,0,0,1-5.911-3.033,2.979,2.979,0,0,0-.389,1.478,3.09,3.09,0,0,0,1.244,2.411,2.622,2.622,0,0,1-1.322-.389h0a2.843,2.843,0,0,0,2.333,2.8,2.4,2.4,0,0,1-.778.078,1.324,1.324,0,0,1-.544-.078,2.947,2.947,0,0,0,2.722,2.022A5.872,5.872,0,0,1,38.7,12.033a2.153,2.153,0,0,1-.7-.078,7.341,7.341,0,0,0,4.433,1.4" transform="translate(137.656 3529.645)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_39-2" data-name="Path 39" d="M42.433,13.356A8.094,8.094,0,0,0,50.6,5.189V4.8A6.322,6.322,0,0,0,52,3.322a6.457,6.457,0,0,1-1.633.467,3.026,3.026,0,0,0,1.244-1.556,7.134,7.134,0,0,1-1.789.7A2.778,2.778,0,0,0,47.722,2a2.922,2.922,0,0,0-2.878,2.878,1.516,1.516,0,0,0,.078.622,8.041,8.041,0,0,1-5.911-3.033,2.979,2.979,0,0,0-.389,1.478,3.09,3.09,0,0,0,1.244,2.411,2.622,2.622,0,0,1-1.322-.389h0a2.843,2.843,0,0,0,2.333,2.8,2.4,2.4,0,0,1-.778.078,1.324,1.324,0,0,1-.544-.078,2.947,2.947,0,0,0,2.722,2.022A5.872,5.872,0,0,1,38.7,12.033a2.153,2.153,0,0,1-.7-.078,7.341,7.341,0,0,0,4.433,1.4" transform="translate(264.031 3529.645)" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_40" data-name="Path 40" d="M7,1.244a21.463,21.463,0,0,1,2.8.078,3.607,3.607,0,0,1,1.322.233,2.732,2.732,0,0,1,1.322,1.322A3.607,3.607,0,0,1,12.678,4.2c0,.7.078.933.078,2.8a21.463,21.463,0,0,1-.078,2.8,3.607,3.607,0,0,1-.233,1.322,2.732,2.732,0,0,1-1.322,1.322,3.607,3.607,0,0,1-1.322.233c-.7,0-.933.078-2.8.078a21.463,21.463,0,0,1-2.8-.078,3.607,3.607,0,0,1-1.322-.233,2.732,2.732,0,0,1-1.322-1.322A3.607,3.607,0,0,1,1.322,9.8c0-.7-.078-.933-.078-2.8a21.463,21.463,0,0,1,.078-2.8,3.607,3.607,0,0,1,.233-1.322A2.793,2.793,0,0,1,2.1,2.1a1.315,1.315,0,0,1,.778-.544A3.607,3.607,0,0,1,4.2,1.322,21.463,21.463,0,0,1,7,1.244M7,0A22.981,22.981,0,0,0,4.122.078,4.8,4.8,0,0,0,2.411.389a3.045,3.045,0,0,0-1.244.778A3.045,3.045,0,0,0,.389,2.411,3.544,3.544,0,0,0,.078,4.122,22.981,22.981,0,0,0,0,7,22.981,22.981,0,0,0,.078,9.878a4.8,4.8,0,0,0,.311,1.711,3.045,3.045,0,0,0,.778,1.244,3.045,3.045,0,0,0,1.244.778,4.8,4.8,0,0,0,1.711.311A22.981,22.981,0,0,0,7,14a22.981,22.981,0,0,0,2.878-.078,4.8,4.8,0,0,0,1.711-.311,3.263,3.263,0,0,0,2.022-2.022,4.8,4.8,0,0,0,.311-1.711C13.922,9.1,14,8.867,14,7a22.981,22.981,0,0,0-.078-2.878,4.8,4.8,0,0,0-.311-1.711,3.045,3.045,0,0,0-.778-1.244A3.045,3.045,0,0,0,11.589.389,4.8,4.8,0,0,0,9.878.078,22.981,22.981,0,0,0,7,0M7,3.422A3.52,3.52,0,0,0,3.422,7,3.578,3.578,0,1,0,7,3.422M7,9.333A2.292,2.292,0,0,1,4.667,7,2.292,2.292,0,0,1,7,4.667,2.292,2.292,0,0,1,9.333,7,2.292,2.292,0,0,1,7,9.333m3.733-6.922a.856.856,0,1,0,.856.856.863.863,0,0,0-.856-.856" transform="translate(259 3529)" fill="#fff" fill-rule="evenodd"/>
+    <text id="_123_Street_Ajegunle_Paris_by_Ikorodu_near_Canada._opposite_planet_Earth_123_4567_8900_courier_armotale.com_www.armotale.com" data-name="+123,  Street, Ajegunle, Paris, by Ikorodu,
+near Canada. opposite planet Earth
++123 4567 8900
+courier@armotale.com
+www.armotale.com" transform="translate(784 3400.647)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve">+123,  Street, Ajegunle, Paris, by Ikorodu,</tspan><tspan x="0" y="21.6">near Canada. opposite planet Earth</tspan><tspan x="0" y="43.2">+123 4567 8900</tspan><tspan x="0" y="64.8">courier@armotale.com</tspan><tspan x="0" y="86.4">www.armotale.com</tspan></text>
+    <text id="HOME" transform="translate(567 26)" fill="#fcf6f6" font-size="14" font-family="ArialMT, Arial" opacity="0.98"><tspan x="0" y="0">HOME</tspan></text>
+    <image id="oza" width="1263" height="555" transform="translate(0 -3)" xlink:href="index.html%20-%203-image12.jpg"/>
+    <g id="Rectangle_450" data-name="Rectangle 450" transform="translate(0 1056)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1263" height="170" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1262" height="169" fill="none"/>
+    </g>
+  </g>
+</svg>

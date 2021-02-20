@@ -1,0 +1,362 @@
+
+html, body{
+  box-sizing:border-box;
+  height: 100%;
+
+  }
+  p{
+    font-size: 16px;
+  }
+/* Navigation Bar */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.navbar {
+  padding: 0 3rem 0.5rem;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* ||||||||||||INTRODUCTION SECTION ||||||||||||||| */
+/* #0076A3 */
+
+
+.section1{
+  background-color: #0076A3;
+/* opacity: 0.5; */
+}
+
+/* .sec1{
+  background-color: yellow;
+} */
+.sec1_phone{
+  width: 100%;
+    /* transform: rotate(25deg); */
+    position: relative;
+    text-align: center;
+    bottom: 11%
+
+}
+
+.downloadi{
+  width:48%;
+  position: relative;
+  top: 90%;
+text-align: center;
+
+
+}
+
+.downloada{
+  width:48%;
+  position: relative;
+  top: 90%;
+text-align: center;
+}
+
+
+
+.freeapp{
+  color:white;
+  font-family:"ubuntu";
+  position: absolute;
+  bottom: 10%;
+  width: 100%;
+  font-size: 1.03rem;
+  margin: 0 auto;
+
+}
+
+.app{
+  border: 2px solid white;
+  padding: 2px;
+  /* margin: 5% 3% 5% 0; */
+
+}
+
+
+.row{
+  /* background-color: pink;
+  position: relative; */
+  bottom:70%;
+}
+
+/* .col-lg-6 p{
+  text-align:center;
+  font-weight: normal;
+  width:50%;
+} */
+
+
+.free{
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* ........ALL THE Hs.................. */
+
+h3{
+  font-family:"Montserrat-black" sans-serif;
+}
+.features h3{
+  color: #0076A3;
+}
+
+p{
+  color:#8F8F8F;
+}
+
+
+.big-heading1a{
+  font-family: "ubuntu";
+      font-size: 3rem;
+      line-height: 1.5;
+      box-shadow: 2px 2px 5px rgb(0 0 0 / 60%);
+      text-shadow: 2px 2px 10px rgb(0 0 0 / 80%);
+}
+
+.big-heading1b{
+  font-size: 3rem;
+  line-height: 1.5;
+  family: "ubuntu";
+  text-shadow: 2px 2px 10px rgb(0 0 0 / 80%);
+}
+
+.big-heading2{
+  font-size: 1.5rem;
+  line-height: 1;
+  text-shadow: 2px 2px 10px rgb(0 0 0 / 80%);
+}
+
+.bigh3{
+  font-size: 1rem;
+  line-height: 1.5;;
+}
+
+.getstarted{
+  position: relative;
+  bottom:-2%;
+  family: "ubuntu";
+  text-shadow: 2px 2px 10px rgb(0 0 0 / 80%);
+
+}
+
+/* >>>>>>>FEATURES SECTION>>>>>>> */
+
+#features{
+padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  margin-bottom: 1rem;
+  width: 90%;
+
+}
+
+.icon: hover {
+color: #ff4c68;
+}
+
+/* ......seting colors................ */
+
+.bg1{
+
+  background-image: url('../images/blue2.png');
+background-position-y: bottom 10%;
+}
+
+.bg2{
+  background-image: url('../images/blue.png');
+ background-position-y: 30rem;
+
+
+}
+
+.bg3{
+background-image: url('../images/blue2.png');
+}
+
+/* ............................example..................
+ */
+ #features2{
+   padding: 7% 15%;
+   background-image: url(../images/background.png);
+   /* padding: 7% auto; */
+   color: #13C8D1;
+ }
+
+ #features2 h3{
+
+   color: #13C8D1;
+ }
+
+ .feature2_header{
+   display: flex;
+   text-align: center: center;
+   margin-bottom: 2rem;
+   color: #13C8D1;
+   font-family: "Montserrat" sans-serif;
+   text-align: center;
+
+ }
+
+
+ .learn_more{
+  with: 20px;
+ position: relative;
+  left: 30%;
+ margin-top: 2.5rem;
+ color: #13C8D1;
+
+ }
+
+ .getstarted1{
+  background-color: black;
+  color:white;
+  font-family: 'Montserrat' sans-serif;
+ }
+
+ .container {
+     margin: 10px auto;}
+
+  .container_text{
+    color: white;
+  }
+
+   .iconic{
+     margin-bottom: 1rem;
+     width: 15%;
+
+   }
+
+   .icon:hover {
+   color: #ff4c68;
+   }
+/* ..........section 3.......................... */
+.section{
+  padding: 7% 15%
+}
+   /* width: 10%;
+   padding: 5px;
+ }
+   .container__image {
+     float: left;
+     width: 100px;
+     height:60px;
+     padding: 0 10px 0 0;
+   }
+
+   /* container__text {
+     text-align: justify;
+     font-family: "Montserrat-blck" sans-serif;
+     flex: 1 1 auto;
+   }  */
+.container_download{
+  display: flex;
+  flex-direction: column;
+}
+
+.container_d1{
+  font-weight: 600;
+  text-align: center;
+      /* text-shadow: 2px 2px 10px rgb(0 0 0 / 80%); */
+}
+
+.container_d1 h1{
+  color: #13C8D1;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: "Montserrat" sans-serif;
+  text-shadow:
+}
+
+.container_d1 a{
+text-decoration: none;
+}
+
+.container_d2{
+  font-family: "Montserrat" sans-serif;
+  text-align: center;
+  font-size: 4rem;
+  line-height: 1.5;
+    text-shadow: 2px 2px 10px rgb(0 0 0 / 20%);
+
+}
+
+.container_d2 h1{
+  color: black;
+  font-weight: bolder;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-family: "Montserrat" sans-serif;
+  margin-bottom: 4rem;
+}
+
+
+.downloadapp{
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+}
+
+.downloadapp1{
+
+}
+
+.downloadapp2{
+
+
+}
+
+
+.downloadapp1 img{
+width: 12rem;
+
+}
+
+
+.downloadapp2 img{
+width: 12rem;
+}
+
+/* .....part B......... */
+.hand_phone{
+  display: flex;
+}
+
+.phone2{
+  width: 1rem;
+}
+
+/* ..............testimonial.............. */
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-image: url(../images/background.png);
+}
